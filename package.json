@@ -1,0 +1,21 @@
+{
+	"name": "EPESI",
+	"license": "MIT",
+	"dependencies": {
+		"jquery": "v1.11.3",
+		"jquery-migrate": "v1.2.1",
+		"jquery-ui": "v1.10.4",
+		"jquery-extendext": "v0.1.2",
+		"dot": "v1.0.3",
+		"jQuery-QueryBuilder": "v2.4.0",
+		"awesome-bootstrap-checkbox": "",
+		"colresizable": "v1.5",
+		"jquery-ui-touch-punch": "v0.2.3",
+		"plupload": "v2.2.0",
+		"ckeditor": "4.5.6"
+	},
+	"resolutions": {},
+	"bugs": {
+	},
+	"devDependencies": {}
+}

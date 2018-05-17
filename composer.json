@@ -1,0 +1,35 @@
+{
+    "require": {
+        "pimple/pimple": "v3.0.2",
+        "twig/twig": "v1.31.0",
+        "symfony/console": "v2.8.17",
+        "symfony/http-foundation": "v2.8.17",
+        "phpdocumentor/reflection-docblock": "2.0.4",
+        "fzaninotto/faker": "v1.6.0",
+        "phpFastCache/phpFastCache": "5.0.15",
+        "ifsnop/mysqldump-php": "dev-master",
+        "memio/memio": "v1.1.1",
+        "psy/psysh": "v0.8.1",
+        "enyo/dropzone": "v4.3.0",
+        "tedivm/fetch": "v0.7.1",
+        "phpoffice/phpexcel": "1.8.1",
+		"adodb/adodb-php": "v5.20.2",
+		"mrclay/minify": "2.1.6",
+		"phpmailer/phpmailer": "5.2.14",
+		"smarty/smarty":"2.6.29",
+		"tecnickcom/tcpdf": "6.0.13"
+    },
+    "autoload": {
+        "psr-4": {
+            "Epesi\\Console\\": "console/",
+            "Epesi\\Module\\": "modules/"
+        },
+        "psr-0": {
+            "": "modules/"
+        }
+    },
+    "require-dev": {
+        "codeception/codeception": "*",
+        "codeception/aspect-mock": "*"
+    }
+}
