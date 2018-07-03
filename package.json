@@ -12,10 +12,9 @@
 		"colresizable": "v1.5",
 		"jquery-ui-touch-punch": "v0.2.3",
 		"plupload": "v2.2.0",
-		"ckeditor": "4.5.6"
+		"ckeditor": "4.10.0"
 	},
 	"resolutions": {},
-	"bugs": {
-	},
+	"bugs": {},
 	"devDependencies": {}
 }
